@@ -1,0 +1,1 @@
+{"version":1,"defects":{"FactorialTest::testSuma":4,"CalculadoraTest::testSuma3":3},"times":{"FactorialTest::testSuma":0.012,"CalculadoraTest::testSuma":0.01,"CalculadoraTest::testSuma2":0.002,"CalculadoraTest::testSuma3":0.005}}
